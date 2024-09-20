@@ -1,0 +1,61 @@
+.Footer-container {
+    position: relative;
+}
+
+.Footer-container > hr {
+    border: 1px solid var(--lightgray);
+}
+
+.footer {
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+}
+
+.social-links {
+    display: flex;
+    gap: 2rem; /* Reduced gap for better alignment */
+}
+
+.social-links > a { /* Targeting the anchor tags directly */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-links > a > img { /* Targeting the images within anchor tags */
+    width: 2rem; /* Adjusted size */
+    height: 2rem; /* Adjusted size */
+    cursor: pointer;
+    transition: transform 0.3s ease; /* Smooth hover effect */
+}
+
+.social-links > a > img:hover {
+    transform: scale(1.1); /* Slightly enlarge on hover */
+}
+
+.logo-f > img {
+    width: 7rem;
+}
+
+.blur-f-1 {
+    bottom: 0;
+    right: 15%;
+    width: 26rem;
+    height: 12rem;
+    filter: blur(200px);
+    background: rgb(255, 0, 0);
+}
+
+.blur-f-2 {
+    bottom: 0;
+    left: 15%;
+    width: 26rem;
+    height: 12rem;
+    filter: blur(200px);
+    background: rgb(255, 98, 0);
+}
