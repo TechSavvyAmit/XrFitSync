@@ -24,7 +24,7 @@ A responsive gym website built using **React** with custom features, showcasing 
 
 ## 🎥 Live Preview
 
-Check out the website live: [XrFitSync Website](https://the-fit-club.pages.dev/)
+Check out the website live: [XrFitSync Website](https://xrfitsync.pages.dev/)
 
 ![XrFitSync Preview](https://github.com/TechSavvyAmit/XrFitSync/blob/main/image.png?raw=true)
 
