@@ -14,7 +14,7 @@ A responsive gym website built using **React** with custom features, showcasing 
 
 ## 🌟 Features
 
-✔️ **Email Registration and Authentication** <br/>
+✔️ **Email Registration** <br/>
 ✔️ **Persistent data storage** using local storage <br/>
 ✔️ **Custom Number Counter Component Library** for tracking real-time stats <br/>
 ✔️ **Smooth Asynchronous Event Handling** <br/>
